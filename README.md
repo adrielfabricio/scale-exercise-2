@@ -97,5 +97,5 @@ Segue o resultado da aplicação
 <img
    src="assets/screenshot01.jpeg"
    alt="Screenshot 01"
-   style="display: inline-block; margin: 0 auto; max-width: 300px;"  />
+   height="500"  />
 </div>
