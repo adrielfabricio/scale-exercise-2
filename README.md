@@ -88,3 +88,9 @@ Necessário verificar se a SDK do android está instalada em caso de erro de SDK
    - no Linux `sdk.dir = /home/USERNAME/Android/Sdk`
 
 Substitua `USERNAME` pelo nome de usuário do PC. Feito isso, rode o comando `yarn android`.
+
+## Screenshot
+
+Segue o resultado da aplicação
+
+![Screenshot 01](assets/screenshot01.jpeg)
