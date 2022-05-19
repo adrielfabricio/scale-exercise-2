@@ -97,5 +97,5 @@ Segue o resultado da aplicação
 <img
    src="assets/screenshot01.jpeg"
    alt="Screenshot 01"
-   height="500"  />
+   height="680"  />
 </div>
