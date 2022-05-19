@@ -93,4 +93,9 @@ Substitua `USERNAME` pelo nome de usuário do PC. Feito isso, rode o comando `ya
 
 Segue o resultado da aplicação
 
-![Screenshot 01](assets/screenshot01.jpeg)
+<div align="center">
+<img
+   src="assets/screenshot01.jpeg"
+   alt="Screenshot 01"
+   style="display: inline-block; margin: 0 auto; max-width: 300px;"  />
+</div>
